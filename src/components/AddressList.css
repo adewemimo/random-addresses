@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+}
+
+.address{
+    margin-bottom: 0.75rem;
+}
+
+.address span {
+    margin: 0.25rem;
+    font-weight: bold;
+}
+
+.address button{
+    color:aliceblue;
+    background-color: blue;
+    font-size: large;
+    font-weight: bold;
+    margin: 0.25rem;
+    border-radius: 0.25rem;
+    border: none;
+}
